@@ -9,7 +9,7 @@ def explore():
     antman = pd.read_csv('data/antman.csv')
     avatar = pd.read_csv('data/avatar.csv')
     bear = pd.read_csv('data/cocaine_bear.csv')
-    megan = pd.read_csv('/home/dills/Downloads/papers/The_Whales_of_Near/data/megan.csv')
+    megan = pd.read_csv('data/megan.csv')
 
     option = st.radio(
     'Select to explore about recent movies',
