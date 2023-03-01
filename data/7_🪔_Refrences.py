@@ -11,9 +11,7 @@ week_days = ['Monday', 'Tuesday', 'Wednesday',
              'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 # Layout
-st.set_page_config(page_title='Aknowledgement - Terra Dashboard',
-                   page_icon=':bar_chart:', layout='wide')
-st.title('🪔 Refrences')
+
 
 # Style
 with open('style.css')as f:

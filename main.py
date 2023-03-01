@@ -12,7 +12,8 @@ from streamlit_option_menu import option_menu
 
 
 # Layout
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="4M",
+    page_icon="chart_with_upwards_trend",layout="wide")
 
 IMAGE = "https://media.tenor.com/eum1UC4F4nAAAAAi/hollywood-famous.gif"
 
