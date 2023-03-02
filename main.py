@@ -155,3 +155,17 @@ elif option == 'Yearly':
     yearly()
 elif option == 'Explore':
     explore()
+
+
+
+st.write(""" ## Sources ## """)
+
+
+st.write(
+    """ 
+    1. Boxofficemojo
+    2. The Numbers
+    3. IMDB
+    4. themoviedb
+    """
+)
