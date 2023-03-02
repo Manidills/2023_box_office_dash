@@ -161,7 +161,7 @@ elif option == 'Explore':
 st.write(""" ## Sources ## """)
 
 
-st.write(
+st.info (
     """ 
     1. Boxofficemojo
     2. The Numbers
